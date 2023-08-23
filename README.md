@@ -39,8 +39,6 @@ yarn ios
 
 ### Question
 
-1. Question:
-
 1. Why did you choose React-Native?
 ```
 Advantages of Using React Native:
